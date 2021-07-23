@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.para {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+.card {
+  background-color: #ffba77;
+  box-shadow: 2px 4x 4x rgb(165, 13, 13);
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+  display: inline-block;
+}
+.cardHeading {
+  text-align: center;
+  margin-bottom: 10px;
+}
+.cardesc {
+  text-align: justify;
+  margin-bottom: 5px;
+}
+.cardFooter {
+  font-weight: bold;
+  text-align: center;
+}
